@@ -1,0 +1,40 @@
+{
+  "name": "TODA",
+  "tasks": [
+    {
+      "text": "oi",
+      "done": false,
+      "priority": "Medium",
+      "deadline": "io",
+      "subtasks": "iuoui"
+    },
+    {
+      "text": "gfmjfjmf",
+      "done": false,
+      "priority": "Low",
+      "deadline": "fdgh",
+      "subtasks": "fghfdg"
+    },
+    {
+      "text": "Enter task...",
+      "done": false,
+      "priority": "Medium",
+      "deadline": "",
+      "subtasks": ""
+    },
+    {
+      "text": "gfhjfgh",
+      "done": true,
+      "priority": "Medium",
+      "deadline": "dfgdgghgf",
+      "subtasks": "fdnfd"
+    },
+    {
+      "text": "g",
+      "done": true,
+      "priority": "Low",
+      "deadline": "ry tgh",
+      "subtasks": "g"
+    }
+  ]
+}
